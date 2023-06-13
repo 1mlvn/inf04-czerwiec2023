@@ -1,0 +1,17 @@
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\bin\Debug\Arkusz1.exe.config
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\bin\Debug\Arkusz1.exe
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\bin\Debug\Arkusz1.pdb
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\MainWindow.g.cs
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\App.g.cs
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1_Content.g.cs
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1_MarkupCompile.cache
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1_MarkupCompile.lref
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\MainWindow.baml
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.g.resources
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.Properties.Resources.resources
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.csproj.GenerateResource.cache
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.exe
+C:\Users\Oskar\source\repos\Arkusz1\Arkusz1\obj\Debug\Arkusz1.pdb
